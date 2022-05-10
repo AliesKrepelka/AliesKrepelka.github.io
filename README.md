@@ -1,3 +1,9 @@
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+} 
+ 
  <FONT COLOR="WHITE">
        <title>My profolio</title>
        
