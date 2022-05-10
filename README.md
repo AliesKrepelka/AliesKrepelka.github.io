@@ -3,5 +3,4 @@
  
    <FONT COLOR="WHITE">
    <body style="background-color:black;">
-   </body>
 
