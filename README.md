@@ -1,8 +1,5 @@
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-} 
+name: Profolio
+title: null
        <h1>My profolio</h1>
        
    <FONT COLOR="WHITE">
