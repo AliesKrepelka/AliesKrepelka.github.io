@@ -3,9 +3,7 @@
 header {
   display: none;
 } 
- 
- <FONT COLOR="WHITE">
-       <title>My profolio</title>
+       <h1>My profolio</h1>
        
    <FONT COLOR="WHITE">
    <body style="background-color:black;">
