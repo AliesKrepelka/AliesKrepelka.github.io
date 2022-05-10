@@ -1,7 +1,8 @@
-document.body.style.backgroundColor = "black";
-<h1>
-  About me
-  </h1>
-h1 {
-    text-align: center;
-}
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>My profolio</title>
+   </head>
+   <body style="background-color:black;">
+   </body>
+</html>
